@@ -1,0 +1,26 @@
+2022-12-01 01:34:30,950:INFO: device: cuda:0
+2022-12-01 01:36:07,855:INFO: device: cuda:0
+2022-12-01 01:39:51,222:INFO: device: cuda:0
+2022-12-01 01:39:57,543:INFO: --------train_input data process DONE!--------
+2022-12-01 01:39:57,983:INFO: --------test_input data process DONE!--------
+2022-12-01 01:39:57,989:INFO: --------Process Done!--------
+2022-12-01 01:41:07,369:INFO: device: cuda:0
+2022-12-01 01:41:58,300:INFO: device: cuda:0
+2022-12-01 01:42:04,729:INFO: --------train data process DONE!--------
+2022-12-01 01:42:05,187:INFO: --------test data process DONE!--------
+2022-12-01 01:42:05,193:INFO: --------Process Done!--------
+2022-12-01 01:46:59,508:INFO: --------Dataset Build!--------
+2022-12-01 01:46:59,509:INFO: --------Get Dataloader!--------
+2022-12-01 01:47:10,430:INFO: --------Start Training!--------
+2022-12-01 01:58:03,266:INFO: device: cuda:0
+2022-12-01 01:58:03,267:INFO: --------Process Done!--------
+2022-12-01 02:00:39,946:INFO: device: cuda:0
+2022-12-01 02:00:39,946:INFO: --------Process Done!--------
+2022-12-01 02:05:33,007:INFO: --------Dataset Build!--------
+2022-12-01 02:05:33,008:INFO: --------Get Dataloader!--------
+2022-12-01 02:05:43,964:INFO: --------Start Training!--------
+2022-12-01 02:11:38,676:INFO: device: cuda:0
+2022-12-01 02:11:38,676:INFO: --------Process Done!--------
+2022-12-01 02:16:32,289:INFO: --------Dataset Build!--------
+2022-12-01 02:16:32,290:INFO: --------Get Dataloader!--------
+2022-12-01 02:16:43,403:INFO: --------Start Training!--------
