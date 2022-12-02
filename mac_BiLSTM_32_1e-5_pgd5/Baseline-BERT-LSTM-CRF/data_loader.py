@@ -71,8 +71,6 @@ class NERDataset(Dataset):
 
         # compute length of longest sentence in batch
         max_len = max([len(s[0]) for s in sentences])
-        if max_len > 768:
-            max_len = 768
         max_label_len = 0
 
         # padding data 初始化

@@ -7,9 +7,9 @@ train_dir = data_dir + 'train.npz'
 test_dir = data_dir + 'test.npz'
 files = ['train', 'test']
 # 转换成tokenizer的model, 'bert-base-chinese'
-bert_model = 'hfl/chinese-macbert-large'#'hfl/rbt6'
+bert_model = 'bert-base-uncased'
 # train的model
-roberta_model = 'hfl/chinese-macbert-large' #'hfl/rbt6'
+roberta_model = 'bert-base-uncased'
 # model_dir = os.path.abspath(os.path.dirname(__file__)) + '/experiments/clue/'
 model_dir = os.path.abspath(os.path.dirname(__file__)) + '/experiments/clue/train/'
 # log_dir = model_dir + 'train.log'
